@@ -1,0 +1,23 @@
+{
+  "name": "coffe_machine",
+  "version": "1.0.0",
+  "description": "this is a website training with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vangzbill/coffe_machine.git"
+  },
+  "keywords": [
+    "coffee"
+  ],
+  "author": "sabil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vangzbill/coffe_machine/issues"
+  },
+  "homepage": "https://github.com/Vangzbill/coffe_machine#readme"
+}
