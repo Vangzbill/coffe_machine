@@ -14,10 +14,13 @@
   "keywords": [
     "coffee"
   ],
+  "type": "module",
   "author": "sabil",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Vangzbill/coffe_machine/issues"
   },
   "homepage": "https://github.com/Vangzbill/coffe_machine#readme"
+
+
 }
